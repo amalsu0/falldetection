@@ -16,3 +16,8 @@ This project used the state-of-the-art (SOTA) model in object detection Yolov8 w
 ## Dependencies
 - Ultralytics, a Python interface that allows to quickly implement the object detection model yolov8.
 - roboflow, to download the dataset in yolov8 format.
+
+## File Descriptions
+FallDetection.ipynb: the main folder that build the model, download the dataset, and train the model
+best.pt: the output model.
+results: the results for every epochs
